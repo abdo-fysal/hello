@@ -1,0 +1,2568 @@
+
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+0 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
+read : reserved
+x : identifier
+; : special symbol
+if : reserved
+5 : number
+< : special symbol
+x : identifier
+then : reserved
+fact : identifier
+:= : special symbol
+1 : number
+; : special symbol
+repeat : reserved
+fact : identifier
+:= : special symbol
+fact : identifier
+* : special symbol
+x : identifier
+; : special symbol
+x : identifier
+:= : special symbol
+x : identifier
+- : special symbol
+1 : number
+until : reserved
+x : identifier
+= : special symbol
+0 : number
+; : special symbol
+write : reserved
+fact : identifier
+end : reserved
